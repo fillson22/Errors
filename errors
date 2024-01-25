@@ -1,0 +1,7 @@
+1. rails 7 The asset "application.js" is not present in the asset pipeline.
+	- yarn run build
+2. rails 7 The asset "application.css" is not present in the asset pipeline.
+	- npm remove yarn
+	- yarn install
+	- bin/dev or .bin/dev
+	- Ctrl-C and rails s
